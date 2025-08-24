@@ -1,6 +1,6 @@
 // Generar cada QR con el link a la rutina
 new QRCode(document.getElementById("qr-pecho"), {
-    text: "http://127.0.0.1:5500/rutinas/pecho.html",
+    text: "https://carlosagustinarieta-create.github.io/qr-gimnasio/pecho.html",
     width: 150,
     height: 150
   });
@@ -22,4 +22,5 @@ new QRCode(document.getElementById("qr-pecho"), {
     width: 150,
     height: 150
   });
+
   
